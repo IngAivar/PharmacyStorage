@@ -1,0 +1,27 @@
+﻿<Window x:Class="Project_Pharmacy.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Project_Pharmacy"
+        mc:Ignorable="d"
+        Title="Окно выбора" Height="300" Width="300">
+    <Grid Background="AntiqueWhite">
+        <Button Content="Заказ" HorizontalAlignment="Left" Margin="50,50,0,0" VerticalAlignment="Top" Width="200" Height="60" RenderTransformOrigin="0.462,0.817" Click="ButtonClickOrder">
+            <Button.Background>
+                <RadialGradientBrush>
+                    <GradientStop Color="White" Offset="0"/>
+                    <GradientStop Color="#FF89F9EE" Offset="1"/>
+                </RadialGradientBrush>
+            </Button.Background>
+        </Button>
+        <Button Content="Склад" HorizontalAlignment="Left" Margin="50,150,0,0" VerticalAlignment="Top" Width="200" Height="60" RenderTransformOrigin="0.462,0.817" Click="ButtonClickStorage">
+            <Button.Background>
+                <RadialGradientBrush>
+                    <GradientStop Color="White" Offset="0"/>
+                    <GradientStop Color="#FF89F9EE" Offset="1"/>
+                </RadialGradientBrush>
+            </Button.Background>
+        </Button>
+    </Grid>
+</Window>

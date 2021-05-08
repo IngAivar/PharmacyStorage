@@ -1,0 +1,38 @@
+﻿<Window x:Class="Project_Pharmacy.BuscetHistory"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Project_Pharmacy"
+        mc:Ignorable="d"
+        Title="BuscetHistory" Height="461" Width="800" Loaded="Window_Loaded">
+    <Grid Background="AntiqueWhite" Margin="0,0,2,-2">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="159*"/>
+            <ColumnDefinition Width="631*"/>
+        </Grid.ColumnDefinitions>
+        <DataGrid AutoGenerateColumns="True" HorizontalAlignment="Center" Height="235" Margin="44,24,59,173" VerticalAlignment="Center" Width="687" x:Name="Suppl" Grid.ColumnSpan="2"/>
+        <CheckBox Content="Поиск по ID товара" HorizontalAlignment="Left" VerticalAlignment="Top" IsChecked="False" Checked="CheckBox_Checked" Unchecked ="CheckBox_Unchecked" Margin="44,264,0,0" Height="14" Width="129" Grid.ColumnSpan="2"/>
+        <CheckBox Content="Поиск по наименованию товара" HorizontalAlignment="Left" Margin="44,310,0,0" VerticalAlignment="Top" IsChecked="False" Checked="CheckBox_Checked_1" Unchecked="CheckBox_Unchecked_1" Height="15" Width="200" Grid.ColumnSpan="2" RenderTransformOrigin="0.505,1.4"/>
+        <TextBox TextWrapping="NoWrap" Text="" x:Name="SearchTextId" Margin="62,283,445,127" Grid.ColumnSpan="2"/>
+        <TextBox TextWrapping="NoWrap" Text="" Margin="62,330,445,82" x:Name="SearchTextName" Grid.ColumnSpan="2"/>
+        <CheckBox Content="Поиск по Id Заказа" HorizontalAlignment="Left" Margin="44,355,0,0" VerticalAlignment="Top" IsChecked="False" Checked="CheckBox_Checked_2" Unchecked="CheckBox_Unchecked_2" Height="15" Width="200" Grid.ColumnSpan="2"/>
+        <TextBox TextWrapping="NoWrap" Text="" Margin="62,375,445,35" x:Name="SearchTextIdOrd" Grid.ColumnSpan="2"/>
+        <Button Content="Назад" Foreground="White" HorizontalAlignment="Left" Margin="489.941,365,0,0" VerticalAlignment="Top" Width="131" Height="46" FontFamily="Times New Roman" FontSize="20" Click="ButtonClickBack" Grid.Column="1">
+            <Button.Background>
+                <RadialGradientBrush>
+                    <GradientStop Color="#FF6DE82C" Offset="0"/>
+                    <GradientStop Color="#FF9AEB6F" Offset="1"/>
+                </RadialGradientBrush>
+            </Button.Background>
+        </Button>
+        <Button Content="Обновить" Foreground="White" HorizontalAlignment="Left" Margin="262,304,0,0" VerticalAlignment="Top" Width="131" Height="46" FontFamily="Times New Roman" FontSize="20" Click="ButtonUpdateDB" Grid.Column="1">
+            <Button.Background>
+                <RadialGradientBrush>
+                    <GradientStop Color="#FF6DE82C" Offset="0"/>
+                    <GradientStop Color="#FF9AEB6F" Offset="1"/>
+                </RadialGradientBrush>
+            </Button.Background>
+        </Button>
+    </Grid>
+</Window>

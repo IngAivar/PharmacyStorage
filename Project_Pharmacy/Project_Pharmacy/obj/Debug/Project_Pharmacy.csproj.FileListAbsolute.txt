@@ -1,0 +1,156 @@
+C:\Users\MiniG\OneDrive\Рабочий стол\Проект Аптека\Project_Pharmacy\Project_Pharmacy\obj\Debug\Project_Pharmacy.csprojAssemblyReference.cache
+C:\Users\MiniG\OneDrive\Рабочий стол\Проект Аптека\Project_Pharmacy\Project_Pharmacy\obj\Debug\MainWindow.g.cs
+C:\Users\MiniG\OneDrive\Рабочий стол\Проект Аптека\Project_Pharmacy\Project_Pharmacy\obj\Debug\Win_1_1_Inf-Of-Item.g.cs
+C:\Users\MiniG\OneDrive\Рабочий стол\Проект Аптека\Project_Pharmacy\Project_Pharmacy\obj\Debug\Win_1_2_Supply.g.cs
+C:\Users\MiniG\OneDrive\Рабочий стол\Проект Аптека\Project_Pharmacy\Project_Pharmacy\obj\Debug\Win_1_Order.g.cs
+C:\Users\MiniG\OneDrive\Рабочий стол\Проект Аптека\Project_Pharmacy\Project_Pharmacy\obj\Debug\Win_2_1_1_ShoppingCartList.g.cs
+C:\Users\MiniG\OneDrive\Рабочий стол\Проект Аптека\Project_Pharmacy\Project_Pharmacy\obj\Debug\Win_2_1_New-Order.g.cs
+C:\Users\MiniG\OneDrive\Рабочий стол\Проект Аптека\Project_Pharmacy\Project_Pharmacy\obj\Debug\Win_2_2_Hist-Order.g.cs
+C:\Users\MiniG\OneDrive\Рабочий стол\Проект Аптека\Project_Pharmacy\Project_Pharmacy\obj\Debug\Win_2_Storage.g.cs
+C:\Users\MiniG\OneDrive\Рабочий стол\Проект Аптека\Project_Pharmacy\Project_Pharmacy\obj\Debug\App.g.cs
+C:\Users\MiniG\OneDrive\Рабочий стол\Проект Аптека\Project_Pharmacy\Project_Pharmacy\obj\Debug\Project_Pharmacy_MarkupCompile.cache
+C:\Users\MiniG\OneDrive\Рабочий стол\Проект Аптека\Project_Pharmacy\Project_Pharmacy\obj\Debug\Project_Pharmacy_MarkupCompile.lref
+C:\Users\MiniG\OneDrive\Рабочий стол\Проект Аптека\Project_Pharmacy\Project_Pharmacy\bin\Debug\Project_Pharmacy.exe.config
+C:\Users\MiniG\OneDrive\Рабочий стол\Проект Аптека\Project_Pharmacy\Project_Pharmacy\bin\Debug\Project_Pharmacy.exe
+C:\Users\MiniG\OneDrive\Рабочий стол\Проект Аптека\Project_Pharmacy\Project_Pharmacy\bin\Debug\Project_Pharmacy.pdb
+C:\Users\MiniG\OneDrive\Рабочий стол\Проект Аптека\Project_Pharmacy\Project_Pharmacy\obj\Debug\MainWindow.baml
+C:\Users\MiniG\OneDrive\Рабочий стол\Проект Аптека\Project_Pharmacy\Project_Pharmacy\obj\Debug\Win_1_1_Inf-Of-Item.baml
+C:\Users\MiniG\OneDrive\Рабочий стол\Проект Аптека\Project_Pharmacy\Project_Pharmacy\obj\Debug\Win_1_2_Supply.baml
+C:\Users\MiniG\OneDrive\Рабочий стол\Проект Аптека\Project_Pharmacy\Project_Pharmacy\obj\Debug\Win_1_Order.baml
+C:\Users\MiniG\OneDrive\Рабочий стол\Проект Аптека\Project_Pharmacy\Project_Pharmacy\obj\Debug\Win_2_1_1_ShoppingCartList.baml
+C:\Users\MiniG\OneDrive\Рабочий стол\Проект Аптека\Project_Pharmacy\Project_Pharmacy\obj\Debug\Win_2_1_New-Order.baml
+C:\Users\MiniG\OneDrive\Рабочий стол\Проект Аптека\Project_Pharmacy\Project_Pharmacy\obj\Debug\Win_2_2_Hist-Order.baml
+C:\Users\MiniG\OneDrive\Рабочий стол\Проект Аптека\Project_Pharmacy\Project_Pharmacy\obj\Debug\Win_2_Storage.baml
+C:\Users\MiniG\OneDrive\Рабочий стол\Проект Аптека\Project_Pharmacy\Project_Pharmacy\obj\Debug\Project_Pharmacy.g.resources
+C:\Users\MiniG\OneDrive\Рабочий стол\Проект Аптека\Project_Pharmacy\Project_Pharmacy\obj\Debug\Project_Pharmacy.Properties.Resources.resources
+C:\Users\MiniG\OneDrive\Рабочий стол\Проект Аптека\Project_Pharmacy\Project_Pharmacy\obj\Debug\Project_Pharmacy.csproj.GenerateResource.cache
+C:\Users\MiniG\OneDrive\Рабочий стол\Проект Аптека\Project_Pharmacy\Project_Pharmacy\obj\Debug\Project_Pharmacy.csproj.CoreCompileInputs.cache
+C:\Users\MiniG\OneDrive\Рабочий стол\Проект Аптека\Project_Pharmacy\Project_Pharmacy\obj\Debug\Project_Pharmacy.exe
+C:\Users\MiniG\OneDrive\Рабочий стол\Проект Аптека\Project_Pharmacy\Project_Pharmacy\obj\Debug\Project_Pharmacy.pdb
+C:\Users\asu\Downloads\drive-download-20210426T122543Z-001\Project_Pharmacy\Project_Pharmacy\Project_Pharmacy\bin\Debug\Project_Pharmacy.exe.config
+C:\Users\asu\Downloads\drive-download-20210426T122543Z-001\Project_Pharmacy\Project_Pharmacy\Project_Pharmacy\bin\Debug\Project_Pharmacy.exe
+C:\Users\asu\Downloads\drive-download-20210426T122543Z-001\Project_Pharmacy\Project_Pharmacy\Project_Pharmacy\bin\Debug\Project_Pharmacy.pdb
+C:\Users\asu\Downloads\drive-download-20210426T122543Z-001\Project_Pharmacy\Project_Pharmacy\Project_Pharmacy\obj\Debug\Project_Pharmacy.csprojAssemblyReference.cache
+C:\Users\asu\Downloads\drive-download-20210426T122543Z-001\Project_Pharmacy\Project_Pharmacy\Project_Pharmacy\obj\Debug\MainWindow.g.cs
+C:\Users\asu\Downloads\drive-download-20210426T122543Z-001\Project_Pharmacy\Project_Pharmacy\Project_Pharmacy\obj\Debug\Win_1_1_Inf-Of-Item.g.cs
+C:\Users\asu\Downloads\drive-download-20210426T122543Z-001\Project_Pharmacy\Project_Pharmacy\Project_Pharmacy\obj\Debug\Win_1_2_Supply.g.cs
+C:\Users\asu\Downloads\drive-download-20210426T122543Z-001\Project_Pharmacy\Project_Pharmacy\Project_Pharmacy\obj\Debug\Win_1_Order.g.cs
+C:\Users\asu\Downloads\drive-download-20210426T122543Z-001\Project_Pharmacy\Project_Pharmacy\Project_Pharmacy\obj\Debug\Win_2_1_1_ShoppingCartList.g.cs
+C:\Users\asu\Downloads\drive-download-20210426T122543Z-001\Project_Pharmacy\Project_Pharmacy\Project_Pharmacy\obj\Debug\Win_2_1_New-Order.g.cs
+C:\Users\asu\Downloads\drive-download-20210426T122543Z-001\Project_Pharmacy\Project_Pharmacy\Project_Pharmacy\obj\Debug\Win_2_2_Hist-Order.g.cs
+C:\Users\asu\Downloads\drive-download-20210426T122543Z-001\Project_Pharmacy\Project_Pharmacy\Project_Pharmacy\obj\Debug\Win_2_Storage.g.cs
+C:\Users\asu\Downloads\drive-download-20210426T122543Z-001\Project_Pharmacy\Project_Pharmacy\Project_Pharmacy\obj\Debug\App.g.cs
+C:\Users\asu\Downloads\drive-download-20210426T122543Z-001\Project_Pharmacy\Project_Pharmacy\Project_Pharmacy\obj\Debug\Project_Pharmacy_MarkupCompile.cache
+C:\Users\asu\Downloads\drive-download-20210426T122543Z-001\Project_Pharmacy\Project_Pharmacy\Project_Pharmacy\obj\Debug\Project_Pharmacy_MarkupCompile.lref
+C:\Users\asu\Downloads\drive-download-20210426T122543Z-001\Project_Pharmacy\Project_Pharmacy\Project_Pharmacy\obj\Debug\MainWindow.baml
+C:\Users\asu\Downloads\drive-download-20210426T122543Z-001\Project_Pharmacy\Project_Pharmacy\Project_Pharmacy\obj\Debug\Win_1_1_Inf-Of-Item.baml
+C:\Users\asu\Downloads\drive-download-20210426T122543Z-001\Project_Pharmacy\Project_Pharmacy\Project_Pharmacy\obj\Debug\Win_1_2_Supply.baml
+C:\Users\asu\Downloads\drive-download-20210426T122543Z-001\Project_Pharmacy\Project_Pharmacy\Project_Pharmacy\obj\Debug\Win_1_Order.baml
+C:\Users\asu\Downloads\drive-download-20210426T122543Z-001\Project_Pharmacy\Project_Pharmacy\Project_Pharmacy\obj\Debug\Win_2_1_1_ShoppingCartList.baml
+C:\Users\asu\Downloads\drive-download-20210426T122543Z-001\Project_Pharmacy\Project_Pharmacy\Project_Pharmacy\obj\Debug\Win_2_1_New-Order.baml
+C:\Users\asu\Downloads\drive-download-20210426T122543Z-001\Project_Pharmacy\Project_Pharmacy\Project_Pharmacy\obj\Debug\Win_2_2_Hist-Order.baml
+C:\Users\asu\Downloads\drive-download-20210426T122543Z-001\Project_Pharmacy\Project_Pharmacy\Project_Pharmacy\obj\Debug\Win_2_Storage.baml
+C:\Users\asu\Downloads\drive-download-20210426T122543Z-001\Project_Pharmacy\Project_Pharmacy\Project_Pharmacy\obj\Debug\Project_Pharmacy.g.resources
+C:\Users\asu\Downloads\drive-download-20210426T122543Z-001\Project_Pharmacy\Project_Pharmacy\Project_Pharmacy\obj\Debug\Project_Pharmacy.Properties.Resources.resources
+C:\Users\asu\Downloads\drive-download-20210426T122543Z-001\Project_Pharmacy\Project_Pharmacy\Project_Pharmacy\obj\Debug\Project_Pharmacy.csproj.GenerateResource.cache
+C:\Users\asu\Downloads\drive-download-20210426T122543Z-001\Project_Pharmacy\Project_Pharmacy\Project_Pharmacy\obj\Debug\Project_Pharmacy.csproj.CoreCompileInputs.cache
+C:\Users\asu\Downloads\drive-download-20210426T122543Z-001\Project_Pharmacy\Project_Pharmacy\Project_Pharmacy\obj\Debug\Project_Pharmacy.exe
+C:\Users\asu\Downloads\drive-download-20210426T122543Z-001\Project_Pharmacy\Project_Pharmacy\Project_Pharmacy\obj\Debug\Project_Pharmacy.pdb
+C:\Users\Professional\Downloads\Project_Pharmacy29.04.2021\Project_Pharmacy\Project_Pharmacy\Project_Pharmacy\bin\Debug\Project_Pharmacy.exe.config
+C:\Users\Professional\Downloads\Project_Pharmacy29.04.2021\Project_Pharmacy\Project_Pharmacy\Project_Pharmacy\bin\Debug\Project_Pharmacy.exe
+C:\Users\Professional\Downloads\Project_Pharmacy29.04.2021\Project_Pharmacy\Project_Pharmacy\Project_Pharmacy\bin\Debug\Project_Pharmacy.pdb
+C:\Users\Professional\Downloads\Project_Pharmacy29.04.2021\Project_Pharmacy\Project_Pharmacy\Project_Pharmacy\obj\Debug\MainWindow.g.cs
+C:\Users\Professional\Downloads\Project_Pharmacy29.04.2021\Project_Pharmacy\Project_Pharmacy\Project_Pharmacy\obj\Debug\Win_1_1_Inf-Of-Item.g.cs
+C:\Users\Professional\Downloads\Project_Pharmacy29.04.2021\Project_Pharmacy\Project_Pharmacy\Project_Pharmacy\obj\Debug\Win_1_2_Supply.g.cs
+C:\Users\Professional\Downloads\Project_Pharmacy29.04.2021\Project_Pharmacy\Project_Pharmacy\Project_Pharmacy\obj\Debug\Win_1_Order.g.cs
+C:\Users\Professional\Downloads\Project_Pharmacy29.04.2021\Project_Pharmacy\Project_Pharmacy\Project_Pharmacy\obj\Debug\Win_2_1_1_ShoppingCartList.g.cs
+C:\Users\Professional\Downloads\Project_Pharmacy29.04.2021\Project_Pharmacy\Project_Pharmacy\Project_Pharmacy\obj\Debug\Win_2_1_New-Order.g.cs
+C:\Users\Professional\Downloads\Project_Pharmacy29.04.2021\Project_Pharmacy\Project_Pharmacy\Project_Pharmacy\obj\Debug\Win_2_2_Hist-Order.g.cs
+C:\Users\Professional\Downloads\Project_Pharmacy29.04.2021\Project_Pharmacy\Project_Pharmacy\Project_Pharmacy\obj\Debug\Win_2_Storage.g.cs
+C:\Users\Professional\Downloads\Project_Pharmacy29.04.2021\Project_Pharmacy\Project_Pharmacy\Project_Pharmacy\obj\Debug\App.g.cs
+C:\Users\Professional\Downloads\Project_Pharmacy29.04.2021\Project_Pharmacy\Project_Pharmacy\Project_Pharmacy\obj\Debug\Project_Pharmacy_MarkupCompile.cache
+C:\Users\Professional\Downloads\Project_Pharmacy29.04.2021\Project_Pharmacy\Project_Pharmacy\Project_Pharmacy\obj\Debug\Project_Pharmacy_MarkupCompile.lref
+C:\Users\Professional\Downloads\Project_Pharmacy29.04.2021\Project_Pharmacy\Project_Pharmacy\Project_Pharmacy\obj\Debug\MainWindow.baml
+C:\Users\Professional\Downloads\Project_Pharmacy29.04.2021\Project_Pharmacy\Project_Pharmacy\Project_Pharmacy\obj\Debug\Win_1_1_Inf-Of-Item.baml
+C:\Users\Professional\Downloads\Project_Pharmacy29.04.2021\Project_Pharmacy\Project_Pharmacy\Project_Pharmacy\obj\Debug\Win_1_2_Supply.baml
+C:\Users\Professional\Downloads\Project_Pharmacy29.04.2021\Project_Pharmacy\Project_Pharmacy\Project_Pharmacy\obj\Debug\Win_1_Order.baml
+C:\Users\Professional\Downloads\Project_Pharmacy29.04.2021\Project_Pharmacy\Project_Pharmacy\Project_Pharmacy\obj\Debug\Win_2_1_1_ShoppingCartList.baml
+C:\Users\Professional\Downloads\Project_Pharmacy29.04.2021\Project_Pharmacy\Project_Pharmacy\Project_Pharmacy\obj\Debug\Win_2_1_New-Order.baml
+C:\Users\Professional\Downloads\Project_Pharmacy29.04.2021\Project_Pharmacy\Project_Pharmacy\Project_Pharmacy\obj\Debug\Win_2_2_Hist-Order.baml
+C:\Users\Professional\Downloads\Project_Pharmacy29.04.2021\Project_Pharmacy\Project_Pharmacy\Project_Pharmacy\obj\Debug\Win_2_Storage.baml
+C:\Users\Professional\Downloads\Project_Pharmacy29.04.2021\Project_Pharmacy\Project_Pharmacy\Project_Pharmacy\obj\Debug\Project_Pharmacy.g.resources
+C:\Users\Professional\Downloads\Project_Pharmacy29.04.2021\Project_Pharmacy\Project_Pharmacy\Project_Pharmacy\obj\Debug\Project_Pharmacy.Properties.Resources.resources
+C:\Users\Professional\Downloads\Project_Pharmacy29.04.2021\Project_Pharmacy\Project_Pharmacy\Project_Pharmacy\obj\Debug\Project_Pharmacy.csproj.GenerateResource.cache
+C:\Users\Professional\Downloads\Project_Pharmacy29.04.2021\Project_Pharmacy\Project_Pharmacy\Project_Pharmacy\obj\Debug\Project_Pharmacy.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Downloads\Project_Pharmacy29.04.2021\Project_Pharmacy\Project_Pharmacy\Project_Pharmacy\obj\Debug\Project_Pharmacy.exe
+C:\Users\Professional\Downloads\Project_Pharmacy29.04.2021\Project_Pharmacy\Project_Pharmacy\Project_Pharmacy\obj\Debug\Project_Pharmacy.pdb
+C:\Users\Professional\Downloads\Project_Pharmacy29.04.2021\Project_Pharmacy\Project_Pharmacy\Project_Pharmacy\obj\Debug\ItemsOrder.g.cs
+C:\Users\Professional\Downloads\Project_Pharmacy29.04.2021\Project_Pharmacy\Project_Pharmacy\Project_Pharmacy\obj\Debug\ItemsOrder.baml
+C:\Users\Professional\Downloads\Project_Pharmacy29.04.2021\Project_Pharmacy\Project_Pharmacy\Project_Pharmacy\obj\Debug\BascetHistory.g.cs
+C:\Users\Professional\Downloads\Project_Pharmacy29.04.2021\Project_Pharmacy\Project_Pharmacy\Project_Pharmacy\obj\Debug\BascetHistory.baml
+C:\Users\Professional\Downloads\PharmacyStorage (1)\Project_Pharmacy\Project_Pharmacy\Project_Pharmacy\bin\Debug\Project_Pharmacy.exe.config
+C:\Users\Professional\Downloads\PharmacyStorage (1)\Project_Pharmacy\Project_Pharmacy\Project_Pharmacy\bin\Debug\Project_Pharmacy.exe
+C:\Users\Professional\Downloads\PharmacyStorage (1)\Project_Pharmacy\Project_Pharmacy\Project_Pharmacy\bin\Debug\Project_Pharmacy.pdb
+C:\Users\Professional\Downloads\PharmacyStorage (1)\Project_Pharmacy\Project_Pharmacy\Project_Pharmacy\obj\Debug\Project_Pharmacy.csprojAssemblyReference.cache
+C:\Users\Professional\Downloads\PharmacyStorage (1)\Project_Pharmacy\Project_Pharmacy\Project_Pharmacy\obj\Debug\BascetHistory.g.cs
+C:\Users\Professional\Downloads\PharmacyStorage (1)\Project_Pharmacy\Project_Pharmacy\Project_Pharmacy\obj\Debug\MainWindow.g.cs
+C:\Users\Professional\Downloads\PharmacyStorage (1)\Project_Pharmacy\Project_Pharmacy\Project_Pharmacy\obj\Debug\Win_1_1_Inf-Of-Item.g.cs
+C:\Users\Professional\Downloads\PharmacyStorage (1)\Project_Pharmacy\Project_Pharmacy\Project_Pharmacy\obj\Debug\Win_1_2_Supply.g.cs
+C:\Users\Professional\Downloads\PharmacyStorage (1)\Project_Pharmacy\Project_Pharmacy\Project_Pharmacy\obj\Debug\Win_1_Order.g.cs
+C:\Users\Professional\Downloads\PharmacyStorage (1)\Project_Pharmacy\Project_Pharmacy\Project_Pharmacy\obj\Debug\Win_2_1_1_ShoppingCartList.g.cs
+C:\Users\Professional\Downloads\PharmacyStorage (1)\Project_Pharmacy\Project_Pharmacy\Project_Pharmacy\obj\Debug\Win_2_1_New-Order.g.cs
+C:\Users\Professional\Downloads\PharmacyStorage (1)\Project_Pharmacy\Project_Pharmacy\Project_Pharmacy\obj\Debug\Win_2_2_Hist-Order.g.cs
+C:\Users\Professional\Downloads\PharmacyStorage (1)\Project_Pharmacy\Project_Pharmacy\Project_Pharmacy\obj\Debug\Win_2_Storage.g.cs
+C:\Users\Professional\Downloads\PharmacyStorage (1)\Project_Pharmacy\Project_Pharmacy\Project_Pharmacy\obj\Debug\App.g.cs
+C:\Users\Professional\Downloads\PharmacyStorage (1)\Project_Pharmacy\Project_Pharmacy\Project_Pharmacy\obj\Debug\Project_Pharmacy_MarkupCompile.cache
+C:\Users\Professional\Downloads\PharmacyStorage (1)\Project_Pharmacy\Project_Pharmacy\Project_Pharmacy\obj\Debug\Project_Pharmacy_MarkupCompile.lref
+C:\Users\Professional\Downloads\PharmacyStorage (1)\Project_Pharmacy\Project_Pharmacy\Project_Pharmacy\obj\Debug\BascetHistory.baml
+C:\Users\Professional\Downloads\PharmacyStorage (1)\Project_Pharmacy\Project_Pharmacy\Project_Pharmacy\obj\Debug\MainWindow.baml
+C:\Users\Professional\Downloads\PharmacyStorage (1)\Project_Pharmacy\Project_Pharmacy\Project_Pharmacy\obj\Debug\Win_1_1_Inf-Of-Item.baml
+C:\Users\Professional\Downloads\PharmacyStorage (1)\Project_Pharmacy\Project_Pharmacy\Project_Pharmacy\obj\Debug\Win_1_2_Supply.baml
+C:\Users\Professional\Downloads\PharmacyStorage (1)\Project_Pharmacy\Project_Pharmacy\Project_Pharmacy\obj\Debug\Win_1_Order.baml
+C:\Users\Professional\Downloads\PharmacyStorage (1)\Project_Pharmacy\Project_Pharmacy\Project_Pharmacy\obj\Debug\Win_2_1_1_ShoppingCartList.baml
+C:\Users\Professional\Downloads\PharmacyStorage (1)\Project_Pharmacy\Project_Pharmacy\Project_Pharmacy\obj\Debug\Win_2_1_New-Order.baml
+C:\Users\Professional\Downloads\PharmacyStorage (1)\Project_Pharmacy\Project_Pharmacy\Project_Pharmacy\obj\Debug\Win_2_2_Hist-Order.baml
+C:\Users\Professional\Downloads\PharmacyStorage (1)\Project_Pharmacy\Project_Pharmacy\Project_Pharmacy\obj\Debug\Win_2_Storage.baml
+C:\Users\Professional\Downloads\PharmacyStorage (1)\Project_Pharmacy\Project_Pharmacy\Project_Pharmacy\obj\Debug\Project_Pharmacy.g.resources
+C:\Users\Professional\Downloads\PharmacyStorage (1)\Project_Pharmacy\Project_Pharmacy\Project_Pharmacy\obj\Debug\Project_Pharmacy.Properties.Resources.resources
+C:\Users\Professional\Downloads\PharmacyStorage (1)\Project_Pharmacy\Project_Pharmacy\Project_Pharmacy\obj\Debug\Project_Pharmacy.csproj.GenerateResource.cache
+C:\Users\Professional\Downloads\PharmacyStorage (1)\Project_Pharmacy\Project_Pharmacy\Project_Pharmacy\obj\Debug\Project_Pharmacy.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Downloads\PharmacyStorage (1)\Project_Pharmacy\Project_Pharmacy\Project_Pharmacy\obj\Debug\Project_Pharmacy.exe
+C:\Users\Professional\Downloads\PharmacyStorage (1)\Project_Pharmacy\Project_Pharmacy\Project_Pharmacy\obj\Debug\Project_Pharmacy.pdb
+C:\Users\Professional\Downloads\PharmacyStorage (1)\Project_Pharmacy\Project_Pharmacy\Project_Pharmacy\obj\Debug\Login.g.cs
+C:\Users\Professional\Downloads\PharmacyStorage (1)\Project_Pharmacy\Project_Pharmacy\Project_Pharmacy\obj\Debug\Login.baml
+C:\Users\MiniG\OneDrive\Documents\GitHub\PharmacyStorage\Project_Pharmacy\Project_Pharmacy\bin\Debug\Project_Pharmacy.exe.config
+C:\Users\MiniG\OneDrive\Documents\GitHub\PharmacyStorage\Project_Pharmacy\Project_Pharmacy\bin\Debug\Project_Pharmacy.exe
+C:\Users\MiniG\OneDrive\Documents\GitHub\PharmacyStorage\Project_Pharmacy\Project_Pharmacy\bin\Debug\Project_Pharmacy.pdb
+C:\Users\MiniG\OneDrive\Documents\GitHub\PharmacyStorage\Project_Pharmacy\Project_Pharmacy\obj\Debug\Project_Pharmacy.csprojAssemblyReference.cache
+C:\Users\MiniG\OneDrive\Documents\GitHub\PharmacyStorage\Project_Pharmacy\Project_Pharmacy\obj\Debug\BascetHistory.g.cs
+C:\Users\MiniG\OneDrive\Documents\GitHub\PharmacyStorage\Project_Pharmacy\Project_Pharmacy\obj\Debug\Login.g.cs
+C:\Users\MiniG\OneDrive\Documents\GitHub\PharmacyStorage\Project_Pharmacy\Project_Pharmacy\obj\Debug\MainWindow.g.cs
+C:\Users\MiniG\OneDrive\Documents\GitHub\PharmacyStorage\Project_Pharmacy\Project_Pharmacy\obj\Debug\Win_1_1_Inf-Of-Item.g.cs
+C:\Users\MiniG\OneDrive\Documents\GitHub\PharmacyStorage\Project_Pharmacy\Project_Pharmacy\obj\Debug\Win_1_2_Supply.g.cs
+C:\Users\MiniG\OneDrive\Documents\GitHub\PharmacyStorage\Project_Pharmacy\Project_Pharmacy\obj\Debug\Win_1_Order.g.cs
+C:\Users\MiniG\OneDrive\Documents\GitHub\PharmacyStorage\Project_Pharmacy\Project_Pharmacy\obj\Debug\Win_2_1_1_ShoppingCartList.g.cs
+C:\Users\MiniG\OneDrive\Documents\GitHub\PharmacyStorage\Project_Pharmacy\Project_Pharmacy\obj\Debug\Win_2_1_New-Order.g.cs
+C:\Users\MiniG\OneDrive\Documents\GitHub\PharmacyStorage\Project_Pharmacy\Project_Pharmacy\obj\Debug\Win_2_2_Hist-Order.g.cs
+C:\Users\MiniG\OneDrive\Documents\GitHub\PharmacyStorage\Project_Pharmacy\Project_Pharmacy\obj\Debug\Win_2_Storage.g.cs
+C:\Users\MiniG\OneDrive\Documents\GitHub\PharmacyStorage\Project_Pharmacy\Project_Pharmacy\obj\Debug\App.g.cs
+C:\Users\MiniG\OneDrive\Documents\GitHub\PharmacyStorage\Project_Pharmacy\Project_Pharmacy\obj\Debug\Project_Pharmacy_MarkupCompile.cache
+C:\Users\MiniG\OneDrive\Documents\GitHub\PharmacyStorage\Project_Pharmacy\Project_Pharmacy\obj\Debug\Project_Pharmacy_MarkupCompile.lref
+C:\Users\MiniG\OneDrive\Documents\GitHub\PharmacyStorage\Project_Pharmacy\Project_Pharmacy\obj\Debug\BascetHistory.baml
+C:\Users\MiniG\OneDrive\Documents\GitHub\PharmacyStorage\Project_Pharmacy\Project_Pharmacy\obj\Debug\Login.baml
+C:\Users\MiniG\OneDrive\Documents\GitHub\PharmacyStorage\Project_Pharmacy\Project_Pharmacy\obj\Debug\MainWindow.baml
+C:\Users\MiniG\OneDrive\Documents\GitHub\PharmacyStorage\Project_Pharmacy\Project_Pharmacy\obj\Debug\Win_1_1_Inf-Of-Item.baml
+C:\Users\MiniG\OneDrive\Documents\GitHub\PharmacyStorage\Project_Pharmacy\Project_Pharmacy\obj\Debug\Win_1_2_Supply.baml
+C:\Users\MiniG\OneDrive\Documents\GitHub\PharmacyStorage\Project_Pharmacy\Project_Pharmacy\obj\Debug\Win_1_Order.baml
+C:\Users\MiniG\OneDrive\Documents\GitHub\PharmacyStorage\Project_Pharmacy\Project_Pharmacy\obj\Debug\Win_2_1_1_ShoppingCartList.baml
+C:\Users\MiniG\OneDrive\Documents\GitHub\PharmacyStorage\Project_Pharmacy\Project_Pharmacy\obj\Debug\Win_2_1_New-Order.baml
+C:\Users\MiniG\OneDrive\Documents\GitHub\PharmacyStorage\Project_Pharmacy\Project_Pharmacy\obj\Debug\Win_2_2_Hist-Order.baml
+C:\Users\MiniG\OneDrive\Documents\GitHub\PharmacyStorage\Project_Pharmacy\Project_Pharmacy\obj\Debug\Win_2_Storage.baml
+C:\Users\MiniG\OneDrive\Documents\GitHub\PharmacyStorage\Project_Pharmacy\Project_Pharmacy\obj\Debug\Project_Pharmacy.g.resources
+C:\Users\MiniG\OneDrive\Documents\GitHub\PharmacyStorage\Project_Pharmacy\Project_Pharmacy\obj\Debug\Project_Pharmacy.Properties.Resources.resources
+C:\Users\MiniG\OneDrive\Documents\GitHub\PharmacyStorage\Project_Pharmacy\Project_Pharmacy\obj\Debug\Project_Pharmacy.csproj.GenerateResource.cache
+C:\Users\MiniG\OneDrive\Documents\GitHub\PharmacyStorage\Project_Pharmacy\Project_Pharmacy\obj\Debug\Project_Pharmacy.csproj.CoreCompileInputs.cache
+C:\Users\MiniG\OneDrive\Documents\GitHub\PharmacyStorage\Project_Pharmacy\Project_Pharmacy\obj\Debug\Project_Pharmacy.exe
+C:\Users\MiniG\OneDrive\Documents\GitHub\PharmacyStorage\Project_Pharmacy\Project_Pharmacy\obj\Debug\Project_Pharmacy.pdb
